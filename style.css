@@ -129,7 +129,7 @@
 .backend-1-div{
     position: relative;
     background-image: url('./image/background-image-bags.jpg');
-
+    height: 700px;
 
     background-size: cover;
     background-repeat: no-repeat;  
